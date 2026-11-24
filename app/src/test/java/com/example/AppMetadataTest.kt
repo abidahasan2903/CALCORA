@@ -9,8 +9,8 @@ import org.robolectric.RobolectricTestRunner
 import org.robolectric.annotation.Config
 
 @RunWith(RobolectricTestRunner::class)
-@Config(sdk = [36])
-class ExampleRobolectricTest {
+@Config(sdk = [35])
+class AppMetadataTest {
 
   @Test
   fun `read string from context`() {

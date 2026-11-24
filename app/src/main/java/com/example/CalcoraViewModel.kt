@@ -16,7 +16,7 @@ import kotlinx.coroutines.flow.asStateFlow
 
 class CalcoraViewModel(application: Application) : AndroidViewModel(application) {
   val preferencesRepository = PreferencesRepository(application)
-  val historyRepository = HistoryRepository()
+  val historyRepository = HistoryRepository(application)
 
   val preferences: StateFlow<UserPreferences> = preferencesRepository.preferences
   val historyEntries: StateFlow<List<HistoryEntry>> = historyRepository.entries

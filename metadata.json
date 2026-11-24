@@ -1,6 +1,6 @@
 {
   "name": "CALCORA",
-  "description": "Calculate Everything. Learn Every Step. Offline all-in-one calculator across Science, Commerce, Arts, Universal, and Student tools.",
+  "description": "Offline Kotlin and Jetpack Compose calculator with science, commerce, arts, student, and everyday calculation tools.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
