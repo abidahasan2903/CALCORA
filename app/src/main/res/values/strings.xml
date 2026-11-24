@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CALCORA</string>
+    <string name="app_tagline">Calculate Everything. Learn Every Step.</string>
+    <string name="developer_credit">Developed by @Abid Ahasan</string>
+</resources>

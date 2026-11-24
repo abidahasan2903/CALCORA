@@ -1,0 +1,6 @@
+{
+  "name": "CALCORA",
+  "description": "Calculate Everything. Learn Every Step. Offline all-in-one calculator across Science, Commerce, Arts, Universal, and Student tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
